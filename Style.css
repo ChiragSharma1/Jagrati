@@ -1,0 +1,80 @@
+body{
+  background:black;
+  color: #f1f1f1;
+
+}
+#top{
+  background: #f0911d;
+  position: relative;
+}
+.li{
+  color:grey;
+}
+#logo{
+  position: absolute;
+  top:0px;
+  right:0px;
+  width:80px;
+}
+#onimage{
+  position: relative;
+  margin:0 auto;
+}
+#onimage .content{
+  position: absolute;
+  bottom: 0;
+ /* background:rgb(0,0,0);*/
+  background:rgba(0,0,0,0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding:20px;
+}
+p{
+  color: grey;
+}
+#navbar{
+    background-color:#f0911d;
+}
+#navbar li{
+  display: inline-block;
+      margin-left: 10px;
+      text-decoration: none;
+      color: black;
+}
+#vision{
+  text-align: center;
+}
+#mission{
+  text-align: center;
+}
+
+#aboutus{
+  text-align: center;
+}
+#aboutus h2{
+  border-bottom: 1px solid #f0911d;
+
+}
+.maboutus{
+  text-align: center;
+  color: grey;
+  background-color:#f0911d;
+}
+.more{
+  text-align:center;
+}
+#moreservice{
+  text-align: center;
+}
+#moreservice h1{
+  border-bottom: 1px solid #f0911d;
+
+}
+footer{
+  text-align: center;
+  background-color: black;
+}
+#donateus{
+  text-align: center;
+
+}
